@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    align-self: center;
+}
+
+p {
+    align-self: center;
+    font-size: 3em;
+}
+
+input {
+    align-self: center;
+}
